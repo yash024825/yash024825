@@ -52,17 +52,17 @@ class Yashwanth:
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📝 Smart Feedback System</h3>
+      <h3 align="center">📉 Customer Churn Prediction</h3>
       <p align="center">
-        <a href="https://github.com/yash024825/smart-feedback-management-system">
+        <a href="https://github.com/yash024825/customer-churn-prediction">
           <img src="https://img.shields.io/badge/View%20Project-a855f7?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p>Full-stack platform for collecting and managing feedback with <strong>real-time sentiment analytics</strong> and admin dashboard.</p>
+      <p>ML project analyzing <strong>7,032 telecom customer records</strong> to predict churn — Random Forest model achieving 76.3% accuracy and 0.808 ROC-AUC with a 5-panel Power BI retention dashboard.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
       </p>
     </td>
   </tr>
@@ -88,10 +88,10 @@ class Yashwanth:
           <img src="https://img.shields.io/badge/View%20Project-10b981?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p>Sales intelligence dashboard with <strong>Python + MySQL + Power BI</strong>, advanced KPI tracking and business insights.</p>
+      <p>Analyzed <strong>114,770 e-commerce orders</strong> across 9 datasets using Python & SQL — built a 5-panel Power BI dashboard tracking BRL 20.5M revenue, 92.1% on-time delivery and 4.08/5 satisfaction score.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
       </p>
     </td>
@@ -136,8 +136,10 @@ class Yashwanth:
 **AI / ML & Data**
 <br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **Core CS**
