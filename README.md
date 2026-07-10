@@ -38,7 +38,7 @@ class Yashwanth:
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔍 Multi-Modal Deepfake Detector</h3>
+      <h3 align="center">🔍 Multi-Modal Deepfake Detection</h3>
       <p align="center">
         <a href="https://github.com/yash024825/multi-modal-deepfake-detection">
           <img src="https://img.shields.io/badge/View%20Project-6366f1?style=for-the-badge&logo=github&logoColor=white" />
